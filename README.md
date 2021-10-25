@@ -1,19 +1,20 @@
-<h2 align='center'><samp><strong>Nadeem (@codewithnk).</strong> 👋</samp></h2> 
+<h2 align='center'><samp><strong>Nadeem (@codewithnk)</strong> 👋</samp></h2>
 
+![banner](banner.png)
 
-<div align='center'>
-<a href="https://www.linkedin.com/in/nadeem-khan-nk-75135210a/" target="_blank"><img src="https://img.icons8.com/ios-filled/32/000000/linkedin.png"/></a>
-<a href="https://www.instagram.com/codewithnk/" target="_blank"><img src="https://img.icons8.com/ios-filled/32/000000/instagram-new--v1.png"/></a>
-<a href="mailto:codewithnk@gmail.com" target="_blank"><img src="https://img.icons8.com/pastel-glyph/32/000000/email--v1.png"/></a>
-<a href="https://stackoverflow.com/users/8639962/nadeem-khan" target="_blank"><img src="https://img.icons8.com/color/32/000000/stackoverflow.png"/></a>
-<a href="https://blog.codewithnk.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/32/000000/medium-logo.png"/></a>
-<a href="https://twitter.com/codewithnk" target="_blank"><img src="https://img.icons8.com/glyph-neue/32/000000/twitter.png"/></a>
-</div>
 <br>
 <div align='center' >
 <img src="https://github-readme-stats.vercel.app/api?username=nadeem4&show_icons=true&count_private=true&theme=nord&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem4&theme=nord&layout=compact&langs_count=8"/>
  <div/>
 
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 
-
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-khan-nk-75135210a/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithnk/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codewithnk)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailto:codewithnk@gmail.com)
+[![image](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://blog.codewithnk.com/)
+  
+</div>
