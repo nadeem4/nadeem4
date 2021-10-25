@@ -12,24 +12,45 @@
   </a>
 </div>
 
+<br/>
+<br/>
+
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nadeem4&theme=chalk&row=1&column=6)](https://github.com/nadeem4)
 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=nadeem4&theme=nord)](https://github.com/nadeem4)
 
 </div>
 
-<br>
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=nadeem4&show_icons=true&theme=nord&hide_border=true&locale=en)](https://github.com/nadeem4)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=nadeem4&theme=nord)](https://github.com/nadeem4)
+<br/>
 <br/>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem4&count_private=true&theme=nord)](https://github.com/nadeem4)
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;"><samp><strong>GitHub Stats:</strong> </samp></h2> 
+ <a href="https://github.com/nadeem4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadeem4&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=nord"/>
+  </a>
+  <a href="https://github.com/nadeem4">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem4&langs_count=15&layout=compact&hide_border=true&theme=nord"/>
+  </a>
 
 </div>
+
+<br/>
+<br/>
+
+
+<div align="center">
+<h2 align="center"><samp><strong>Contribution Graph:</strong> </samp></h2>
+
+[![Nadeem's github activity graph](https://activity-graph.herokuapp.com/graph?username=nadeem4&theme=dracula)](https://github.com/nadeem4)
+
+</div>
+
+<br/>
+<br/>
+
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -39,6 +60,5 @@
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codewithnk)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailto:codewithnk@gmail.com)
 [![image](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://blog.codewithnk.com/)
-  
-</div>
 
+</div>
