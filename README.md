@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nadeem4&theme=onedark)](https://github.com/nadeem4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nadeem4&theme=chalk&row=1&column=6)](https://github.com/nadeem4)
 
 
 </div>
@@ -23,11 +23,11 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=nadeem4&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/nadeem4)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=nadeem4&theme=material-palenight)](https://github.com/nadeem4)
+[![](https://github-readme-stats.vercel.app/api?username=nadeem4&show_icons=true&theme=nord&hide_border=true&locale=en)](https://github.com/nadeem4)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=nadeem4&theme=nord)](https://github.com/nadeem4)
 <br/>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem4&count_private=true&theme=material-palenight)](https://github.com/nadeem4)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem4&count_private=true&theme=nord)](https://github.com/nadeem4)
 
 </div>
 
