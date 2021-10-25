@@ -14,7 +14,8 @@
 
 <div align="center">
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=nadeem4&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/nadeem4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nadeem4&theme=onedark)](https://github.com/nadeem4)
+
 
 </div>
 
