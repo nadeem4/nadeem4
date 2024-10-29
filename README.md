@@ -1,49 +1,11 @@
 <h2 align="center"><samp><strong>Nadeem Khan (@codewithnk)</strong> 👋</samp></h2>
 
-![Banner](banner.png)
+# 💫 About Me:
+🔭 Currently working on: Building project with LLM to streamline development.<br>🌱 Currently learning: How Large Language Models (LLMs) work..<br>💬 Ask me about: Python, Java, Cloud Technologies, and DevOps.<br>📫 How to reach me: codewithnk@gmail.com<br>
 
-<div align="center">
-  <a href="https://github.com/nadeem4" target="_blank">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/nadeem4?label=GitHub%20Followers&style=for-the-badge">
-  </a>  
-  <a href="https://github.com/nadeem4" target="_blank">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=nadeem4&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-  </a>
-</div>
 
----
-
-## 👨‍💻 About Me
-
-I'm Nadeem Khan, a passionate software engineer specializing in full-stack development, cloud computing, DevOps practices, and building frameworks. I love creating scalable applications and exploring new technologies.
-
-- 🔭 **Currently working on:** Building project with LLM.
-- 🌱 **Currently learning:** How Large Language Models (LLMs) work..
-- 💬 **Ask me about:** Python, Java, Cloud Technologies, and DevOps.
-- 📫 **How to reach me:** [codewithnk@gmail.com](mailto:codewithnk@gmail.com)
-
----
-
-<div align="center">
-  
- [![Trophy](https://github-profile-trophy.vercel.app/?username=nadeem4&theme=chalk&row=1&column=6)](https://github.com/nadeem4)
-  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nadeem4&theme=nord)](https://github.com/nadeem4)
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/nadeem4">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nadeem4&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=nord" />
-  </a>
- 
- <a href="https://github.com/nadeem4">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem4&langs_count=8&layout=compact&hide_border=true&theme=nord" />
-  </a>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithnk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-khan-75135210a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/learnwithnk) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8639962/nadeem-khan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codewithnk) 
 
 ---
 
@@ -56,72 +18,25 @@ I'm Nadeem Khan, a passionate software engineer specializing in full-stack devel
 
 ---
 
-## 🛠️ Skills & Technologies
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nadeem4&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nadeem4&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nadeem4&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
-### Programming Languages
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
-
-### Databases
-
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![Azure SQL](https://img.shields.io/badge/Azure%20SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)](https://azure.microsoft.com/en-us/products/azure-sql/database/)
-
-### Frameworks & Libraries
-
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)](https://angular.io/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB)](https://reactjs.org/)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)](https://spring.io/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
-
-### DevOps & Cloud
-
-[![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/en-us/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
-[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white)](https://helm.sh/)
-
-### Version Control
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nadeem4&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=nadeem4&icon=3&color=13)](https://visitcount.itsvg.in)
 
-## 🔨 Key Projects
-
-- **[Spring Boot Multi-Module Framework](https://github.com/nadeem4/spring_boot_multi_module_framework)**
-  - A framework for building modular Spring Boot applications.
-
-- **[Chess Engine](https://github.com/nadeem4/chess_engine_using_python)**
-  - A Python-based chess engine with AI capabilities.
-
-- **[Document Generator](https://github.com/nadeem4/doc_generator)**
-  - A tool for generating documents from templates.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nadeem-khan-75135210a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/codewithnk/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/codewithnk)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:codewithnk@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://codewithnk.com/)
-
-</div>
-
----
-
-✨ *Thanks for visiting my profile! If you have any questions or want to collaborate, feel free to reach out.*
-
----
-
