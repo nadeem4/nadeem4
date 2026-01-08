@@ -70,26 +70,12 @@ Concurrency • Distributed Systems
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nadeem4&show_icons=true)
-
-![](https://streak-stats.demolab.com/?user=nadeem4)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem4&layout=compact)
-
-
----
-
 ## 🏆 Impact Highlights
 ✔️ Reduced cloud costs by **30%** through architectural and execution optimizations  
 ✔️ Cut onboarding time from **months to weeks** via platform automation  
 ✔️ Built **end-to-end AI and data platforms** with strong reliability guarantees  
 ✔️ Focused on **correctness, observability, and system clarity**
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nadeem4&theme=transparent&margin-w=4)
 
 ---
 
