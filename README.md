@@ -71,9 +71,12 @@ Concurrency • Distributed Systems
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nadeem4&theme=dark&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nadeem4&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem4&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nadeem4&show_icons=true)
+
+![](https://streak-stats.demolab.com/?user=nadeem4)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem4&layout=compact)
+
 
 ---
 
