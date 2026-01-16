@@ -25,14 +25,6 @@
 
 ---
 
-## 🚀 Featured Projects
-> Production-grade systems focused on correctness, safety, and scale
-
-[![NL2SQL](https://img.shields.io/github/stars/nadeem4/nl2sql?label=NL2SQL&style=for-the-badge)](https://github.com/nadeem4/nl2sql)
-[![MedalFlow](https://img.shields.io/github/stars/nadeem4/MedalFlow?label=MedalFlow&style=for-the-badge)](https://github.com/nadeem4/MedalFlow)
-
----
-
 ## 🧠 Technical Focus
 
 ### 🤖 AI Systems & Inference
