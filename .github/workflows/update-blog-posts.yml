@@ -23,5 +23,5 @@ jobs:
           template: "$newline- [$title]($url) &nbsp;<sub>$date</sub>"
           date_format: "mmm d, yyyy"
           # Medium appends ?source=rss---- tracking params to every feed link
-          item_exec: "item.link = item.link.split('?')[0]"
+          item_exec: "post.url = post.url.split('?')[0]"
           commit_message: "chore: refresh latest blog posts"
