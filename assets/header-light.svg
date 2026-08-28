@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-labelledby="t">
+  <title id="t">Nadeem Khan — Senior Software Engineer, AI Systems &amp; Platform Engineering</title>
+  <rect width="1200" height="260" fill="#FFFFFF"/>
+
+  <!-- node graph motif: a small agent/execution DAG -->
+  <g stroke="#D1D9E0" stroke-width="1.5" fill="none">
+    <path d="M872 92 L968 68 M872 92 L968 138 M872 188 L968 138 M872 188 L968 208
+             M968 68 L1064 100 M968 138 L1064 100 M968 138 L1064 172 M968 208 L1064 172
+             M1064 100 L1150 136 M1064 172 L1150 136"/>
+  </g>
+  <g fill="#FFFFFF" stroke="#D1D9E0" stroke-width="1.5">
+    <circle cx="872" cy="92" r="7"/><circle cx="872" cy="188" r="7"/>
+    <circle cx="968" cy="68" r="7"/><circle cx="968" cy="208" r="7"/>
+    <circle cx="1064" cy="100" r="7"/><circle cx="1064" cy="172" r="7"/>
+  </g>
+  <g fill="#9A6700">
+    <circle cx="968" cy="138" r="8"/>
+    <circle cx="1150" cy="136" r="9"/>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="80" y="106" fill="#1F2328" font-size="54" font-weight="700" letter-spacing="-1">Nadeem Khan</text>
+    <rect x="82" y="126" width="64" height="4" rx="2" fill="#9A6700"/>
+    <text x="80" y="168" fill="#9A6700" font-size="21" font-weight="600" letter-spacing="0.2">Senior Software Engineer &#183; AI Systems &amp; Platform Engineering</text>
+    <text x="80" y="202" fill="#59636E" font-size="17">Building AI and data platforms that stay correct, observable,</text>
+    <text x="80" y="226" fill="#59636E" font-size="17">and affordable at production scale.</text>
+  </g>
+</svg>

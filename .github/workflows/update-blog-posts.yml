@@ -1,0 +1,25 @@
+name: Update latest blog posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily, 06:00 UTC
+  workflow_dispatch:       # allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Pull latest Medium posts into README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and inject posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/learnwithnk"
+          max_post_count: 5
+          template: "$newline- [$title]($url) &nbsp;<sub>$date</sub>"
+          date_format: "mmm d, yyyy"
+          commit_message: "chore: refresh latest blog posts"
