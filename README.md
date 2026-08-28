@@ -55,11 +55,17 @@
 ## 🧠 Technical Focus
 
 <p align="center">
+  <b>Languages &amp; Frameworks</b><br>
+  <sub>Python · Java · TypeScript · Spring · Node.js · FastAPI · PyTorch · Angular</sub><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,ts,spring,nodejs,fastapi,pytorch,angular&theme=dark">
     <img alt="Python, Java, TypeScript, Spring, Node.js, FastAPI, PyTorch, Angular" src="https://skillicons.dev/icons?i=python,java,ts,spring,nodejs,fastapi,pytorch,angular&theme=light">
   </picture>
-  <br>
+</p>
+
+<p align="center">
+  <b>Platform &amp; Infrastructure</b><br>
+  <sub>Kubernetes · Docker · Azure · GitHub Actions · Postgres · Grafana · Git · Linux</sub><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes,docker,azure,githubactions,postgres,grafana,git,linux&theme=dark">
     <img alt="Kubernetes, Docker, Azure, GitHub Actions, Postgres, Grafana, Git, Linux" src="https://skillicons.dev/icons?i=kubernetes,docker,azure,githubactions,postgres,grafana,git,linux&theme=light">
@@ -68,7 +74,7 @@
 
 **AI Systems** — LLM inference efficiency · agentic systems · retrieval · execution feedback loops · cost/latency tradeoffs · agent safety
 
-**Platform & Distributed Systems** — Kubernetes · serverless · CI/CD · observability · private networking · fault tolerance
+**Platform & Distributed Systems** — serverless · CI/CD · observability · private networking · fault tolerance
 
 **Data Systems** — ETL platforms · lakehouse architectures · Apache Spark · SQL engines · cost optimization
 
