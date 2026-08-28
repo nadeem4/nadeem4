@@ -58,8 +58,8 @@
   <b>Languages &amp; Frameworks</b><br>
   <sub>Python · Java · TypeScript · Spring · Node.js · FastAPI · PyTorch · Angular</sub><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,ts,spring,nodejs,fastapi,pytorch,angular&theme=dark">
-    <img alt="Python, Java, TypeScript, Spring, Node.js, FastAPI, PyTorch, Angular" src="https://skillicons.dev/icons?i=python,java,ts,spring,nodejs,fastapi,pytorch,angular&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjava%2Cts%2Cspring%2Cnodejs%2Cfastapi%2Cpytorch%2Cangular&theme=dark">
+    <img alt="Python, Java, TypeScript, Spring, Node.js, FastAPI, PyTorch, Angular" src="https://skillicons.dev/icons?i=python%2Cjava%2Cts%2Cspring%2Cnodejs%2Cfastapi%2Cpytorch%2Cangular&theme=light">
   </picture>
 </p>
 
@@ -67,8 +67,8 @@
   <b>Platform &amp; Infrastructure</b><br>
   <sub>Kubernetes · Docker · Azure · GitHub Actions · Postgres · Grafana · Git · Linux</sub><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes,docker,azure,githubactions,postgres,grafana,git,linux&theme=dark">
-    <img alt="Kubernetes, Docker, Azure, GitHub Actions, Postgres, Grafana, Git, Linux" src="https://skillicons.dev/icons?i=kubernetes,docker,azure,githubactions,postgres,grafana,git,linux&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Cazure%2Cgithubactions%2Cpostgres%2Cgrafana%2Cgit%2Clinux&theme=dark">
+    <img alt="Kubernetes, Docker, Azure, GitHub Actions, Postgres, Grafana, Git, Linux" src="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Cazure%2Cgithubactions%2Cpostgres%2Cgrafana%2Cgit%2Clinux&theme=light">
   </picture>
 </p>
 
