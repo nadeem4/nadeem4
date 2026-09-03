@@ -96,11 +96,11 @@
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Evaluating LLM Systems: Offline Evals, Online Evals, LLM-as-Judge](https://medium.com/learnwithnk/evaluating-llm-systems-offline-evals-online-evals-llm-as-judge-cb4b462527b5) &nbsp;<sub>Sep 3, 2026</sub>
 - [pgvector Internals Overview: How Postgres Learned to Speak Vector](https://medium.com/learnwithnk/pgvector-internals-overview-how-postgres-learned-to-speak-vector-5a8c6f11b571) &nbsp;<sub>Aug 30, 2026</sub>
 - [Hybrid Search: Combining Vector Similarity with Metadata Filters and Keyword Search](https://medium.com/learnwithnk/hybrid-search-combining-vector-similarity-with-metadata-filters-and-keyword-search-cb5f7cc419ad) &nbsp;<sub>Aug 29, 2026</sub>
 - [Distributed Systems Concerns: Replication, Consistency, and Query Routing](https://medium.com/learnwithnk/distributed-systems-concerns-replication-consistency-and-query-routing-97f30840e7a7) &nbsp;<sub>Aug 27, 2026</sub>
-- [Sharding and Partitioning at Scale: Splitting Billions of Vectors Across Machines](https://medium.com/learnwithnk/sharding-and-partitioning-at-scale-splitting-billions-of-vectors-across-machines-3ccebd409078) &nbsp;<sub>Aug 26, 2026</sub>
-- [Storage Architecture: Memory, Disk, and Memory-Mapped Layouts at Billion-Vector Scale](https://medium.com/learnwithnk/storage-architecture-memory-disk-and-memory-mapped-layouts-at-billion-vector-scale-4c094bcadde6) &nbsp;<sub>Aug 26, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [Sharding and Partitioning at Scale: Splitting Billions of Vectors Across Machines](https://medium.com/learnwithnk/sharding-and-partitioning-at-scale-splitting-billions-of-vectors-across-machines-3ccebd409078) &nbsp;<sub>Aug 26, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 More at **[medium.com/learnwithnk](https://medium.com/learnwithnk)** · **[codewithnk.com](https://codewithnk.com/)**
 
