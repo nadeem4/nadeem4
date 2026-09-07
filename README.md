@@ -96,11 +96,11 @@
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [How Dropbox Dash Grounds Its Agents Against Hallucination](https://medium.com/learnwithnk/how-dropbox-dash-grounds-its-agents-against-hallucination-7334ee93d69f) &nbsp;<sub>Sep 7, 2026</sub>
 - [Reliability for Model-Locked Systems: When Cross-Model Fallback Isn’t an Option](https://medium.com/learnwithnk/reliability-for-model-locked-systems-when-cross-model-fallback-isnt-an-option-c97374cf489f) &nbsp;<sub>Sep 5, 2026</sub>
 - [Reliability &amp; Fault Tolerance in LLM Systems: Fallbacks &amp; Guardrails](https://medium.com/learnwithnk/reliability-fault-tolerance-in-llm-systems-fallbacks-guardrails-031aaff465cf) &nbsp;<sub>Sep 5, 2026</sub>
 - [Evaluating LLM Systems: Offline Evals, Online Evals, LLM-as-Judge](https://medium.com/learnwithnk/evaluating-llm-systems-offline-evals-online-evals-llm-as-judge-cb4b462527b5) &nbsp;<sub>Sep 3, 2026</sub>
-- [pgvector Internals Overview: How Postgres Learned to Speak Vector](https://medium.com/learnwithnk/pgvector-internals-overview-how-postgres-learned-to-speak-vector-5a8c6f11b571) &nbsp;<sub>Aug 30, 2026</sub>
-- [Hybrid Search: Combining Vector Similarity with Metadata Filters and Keyword Search](https://medium.com/learnwithnk/hybrid-search-combining-vector-similarity-with-metadata-filters-and-keyword-search-cb5f7cc419ad) &nbsp;<sub>Aug 29, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [pgvector Internals Overview: How Postgres Learned to Speak Vector](https://medium.com/learnwithnk/pgvector-internals-overview-how-postgres-learned-to-speak-vector-5a8c6f11b571) &nbsp;<sub>Aug 30, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 More at **[medium.com/learnwithnk](https://medium.com/learnwithnk)** · **[codewithnk.com](https://codewithnk.com/)**
 
