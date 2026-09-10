@@ -96,11 +96,11 @@
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber’s GenAI Gateway: One Control Point for Company-Wide LLM Access](https://medium.com/learnwithnk/ubers-genai-gateway-one-control-point-for-company-wide-llm-access-e95975146c90) &nbsp;<sub>Sep 9, 2026</sub>
 - [How Dropbox Dash Grounds Its Agents Against Hallucination](https://medium.com/learnwithnk/how-dropbox-dash-grounds-its-agents-against-hallucination-7334ee93d69f) &nbsp;<sub>Sep 7, 2026</sub>
 - [Reliability for Model-Locked Systems: When Cross-Model Fallback Isn’t an Option](https://medium.com/learnwithnk/reliability-for-model-locked-systems-when-cross-model-fallback-isnt-an-option-c97374cf489f) &nbsp;<sub>Sep 5, 2026</sub>
 - [Reliability &amp; Fault Tolerance in LLM Systems: Fallbacks &amp; Guardrails](https://medium.com/learnwithnk/reliability-fault-tolerance-in-llm-systems-fallbacks-guardrails-031aaff465cf) &nbsp;<sub>Sep 5, 2026</sub>
-- [Evaluating LLM Systems: Offline Evals, Online Evals, LLM-as-Judge](https://medium.com/learnwithnk/evaluating-llm-systems-offline-evals-online-evals-llm-as-judge-cb4b462527b5) &nbsp;<sub>Sep 3, 2026</sub>
-- [pgvector Internals Overview: How Postgres Learned to Speak Vector](https://medium.com/learnwithnk/pgvector-internals-overview-how-postgres-learned-to-speak-vector-5a8c6f11b571) &nbsp;<sub>Aug 30, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [Evaluating LLM Systems: Offline Evals, Online Evals, LLM-as-Judge](https://medium.com/learnwithnk/evaluating-llm-systems-offline-evals-online-evals-llm-as-judge-cb4b462527b5) &nbsp;<sub>Sep 3, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 More at **[medium.com/learnwithnk](https://medium.com/learnwithnk)** · **[codewithnk.com](https://codewithnk.com/)**
 
