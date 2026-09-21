@@ -96,11 +96,11 @@
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Shapes, FLOPs, and Memory: Sizing a Transformer Before You Run It](https://medium.com/learnwithnk/shapes-flops-and-memory-sizing-a-transformer-before-you-run-it-b7b2beca4f4a) &nbsp;<sub>Sep 20, 2026</sub>
 - [The Ingestion Pipeline: What You Ingest, What You Store, and What Starts the Rest](https://medium.com/learnwithnk/the-ingestion-pipeline-what-you-ingest-what-you-store-and-what-starts-the-rest-ed227b608b68) &nbsp;<sub>Sep 19, 2026</sub>
 - [A Baseline RAG and a Golden Set Before Any Optimisation](https://medium.com/learnwithnk/a-baseline-rag-and-a-golden-set-before-any-optimisation-c0c45de5847b) &nbsp;<sub>Sep 18, 2026</sub>
 - [The RAG Pipeline as Building Blocks: Seven Ways an Answer Goes Wrong](https://medium.com/learnwithnk/the-rag-pipeline-as-building-blocks-seven-ways-an-answer-goes-wrong-2cae16e3a91c) &nbsp;<sub>Sep 16, 2026</sub>
-- [A Framework for Deciding Where Retrieval Work Happens](https://medium.com/learnwithnk/a-framework-for-deciding-where-retrieval-work-happens-af3b5595d5da) &nbsp;<sub>Sep 15, 2026</sub>
-- [Caching for LLM Systems: Exact, Semantic, and Provider Prefix Caches](https://medium.com/learnwithnk/caching-for-llm-systems-exact-semantic-and-provider-prefix-caches-a78a33a59d7a) &nbsp;<sub>Sep 12, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [A Framework for Deciding Where Retrieval Work Happens](https://medium.com/learnwithnk/a-framework-for-deciding-where-retrieval-work-happens-af3b5595d5da) &nbsp;<sub>Sep 15, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 More at **[medium.com/learnwithnk](https://medium.com/learnwithnk)** · **[codewithnk.com](https://codewithnk.com/)**
 
