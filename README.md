@@ -19,12 +19,17 @@
 
 ## 🚀 What I'm Building
 
+<!-- PROJECTS:START -->
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[nl2sql](https://github.com/nadeem4/nl2sql)** | Enterprise-grade multi-agent NL→SQL system — schema retrieval, validation, and full observability for SQL that is accurate, safe, and deterministic. | Python · Multi-agent · Retrieval |
+| **[nl2sql](https://github.com/nadeem4/nl2sql)**<br><sub>[docs](https://nadeem4.github.io/nl2sql/) · [PyPI](https://pypi.org/project/nl2sql-engine/)</sub> | Ask a database questions in English. The model emits a typed query plan, never SQL text — validated against the real schema and the caller's role before any SQL is generated. | Python · LangGraph · sqlglot |
+| **[rag-playground](https://github.com/nadeem4/rag-playground)**<br><sub>[live demo](https://huggingface.co/spaces/nadeem4nk/rag-playground)</sub> | A local-first bench for learning RAG by experiment — swap, run, and inspect each stage (parsing, chunking, indexing, retrieval, reranking, answer) and compare strategies side by side. | Python · Docling · RAG |
+| **[codewithnk-playground](https://github.com/nadeem4/codewithnk-playground)** | Interactive companions to the blog series — real HNSW, IVF, and quantisation running live in the browser, measured against brute force. No backend. | TypeScript · Next.js |
+| **[jev-demo](https://github.com/nadeem4/jev-demo)**<br><sub>[live](https://arena.codewithnk.com)</sub> | Decision Arena — TypeSafe's Jev vs open-source Laya playing highway-env, Snake, and Blackjack with zero training, plus benchmarks and a scorecard. | TypeScript · Decision models |
 | **[medalflow](https://github.com/nadeem4/medalflow)** | dbt, but in Python classes. Declare Bronze/Silver/Gold models as classes; MedalFlow parses your SQL for dependencies and compiles a staged execution plan. | Python · Data platform |
-| **[loglens](https://github.com/nadeem4/loglens)** | LLM-powered analysis bolted onto stdlib `logging` — severity-based model routing, PII scrubbing, async micro-batching, circuit breaking, Prometheus metrics. | Python · Observability |
-| **[post_training](https://github.com/nadeem4/post_training)** | Small, runnable implementations of LLM post-training and alignment — RL fundamentals through DPO, RLHF, and RLAIF. | Python · PyTorch · RL |
+| **[logscribe](https://github.com/nadeem4/logscribe)** | An AI lens on your Python logs — batches them, scrubs PII, and asks an LLM what's going on, with Prometheus metrics and OpenTelemetry support. | Python · Observability |
+| **[post_training](https://github.com/nadeem4/post_training)** | Small, runnable implementations of LLM post-training and alignment — RL fundamentals (PPO, GRPO) through DPO, RLHF, and RLAIF. | Python · PyTorch · RL |
+<!-- PROJECTS:END -->
 
 <details>
 <summary><b>Earlier work that people still use</b></summary>
@@ -56,10 +61,10 @@
 
 <p align="center">
   <b>Languages &amp; Frameworks</b><br>
-  <sub>Python · Java · TypeScript · Spring · Node.js · FastAPI · PyTorch · Angular</sub><br>
+  <sub>Python · Java · TypeScript · Spring · Node.js · Next.js · FastAPI · PyTorch · Angular</sub><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjava%2Cts%2Cspring%2Cnodejs%2Cfastapi%2Cpytorch%2Cangular&theme=dark">
-    <img alt="Python, Java, TypeScript, Spring, Node.js, FastAPI, PyTorch, Angular" src="https://skillicons.dev/icons?i=python%2Cjava%2Cts%2Cspring%2Cnodejs%2Cfastapi%2Cpytorch%2Cangular&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjava%2Cts%2Cspring%2Cnodejs%2Cnextjs%2Cfastapi%2Cpytorch%2Cangular&theme=dark">
+    <img alt="Python, Java, TypeScript, Spring, Node.js, Next.js, FastAPI, PyTorch, Angular" src="https://skillicons.dev/icons?i=python%2Cjava%2Cts%2Cspring%2Cnodejs%2Cnextjs%2Cfastapi%2Cpytorch%2Cangular&theme=light">
   </picture>
 </p>
 
@@ -72,7 +77,7 @@
   </picture>
 </p>
 
-**AI Systems** — LLM inference efficiency · agentic systems · retrieval · execution feedback loops · cost/latency tradeoffs · agent safety
+**AI Systems** — LLM inference efficiency · agentic systems · RAG & vector search · retrieval evaluation · execution feedback loops · cost/latency tradeoffs · agent safety
 
 **Platform & Distributed Systems** — serverless · CI/CD · observability · private networking · fault tolerance
 
