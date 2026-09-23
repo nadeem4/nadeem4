@@ -1,0 +1,8 @@
+<g font-size="9" fill="{{muted}}">
+  <text x="0" y="12">LANE_LEFT</text><text x="0" y="29" fill="{{amber}}" font-weight="600">IDLE</text><text x="0" y="46">LANE_RIGHT</text><text x="0" y="63">FASTER</text><text x="0" y="80">SLOWER</text>
+</g>
+<g fill="{{border}}">
+  <rect x="68" y="4" width="43" height="10" rx="2"/><rect x="68" y="38" width="2" height="10" rx="1"/><rect x="68" y="55" width="3" height="10" rx="2"/><rect x="68" y="72" width="11" height="10" rx="2"/>
+</g>
+<rect x="68" y="21" width="81" height="10" rx="2" fill="{{amber}}"/>
+<g font-size="9" fill="{{muted}}"><text x="118" y="12">0.31</text><text x="156" y="29" fill="{{amber}}" font-weight="600">0.58</text><text x="76" y="46">0.01</text><text x="77" y="63">0.02</text><text x="86" y="80">0.08</text></g>

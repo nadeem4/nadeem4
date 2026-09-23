@@ -1,0 +1,9 @@
+<g stroke="{{border}}" stroke-width="1.5" fill="none"><path d="M24 30 H210"/></g>
+<g stroke="{{border}}" stroke-width="1.5" fill="{{bg}}"><circle cx="24" cy="30" r="8"/><circle cx="86" cy="30" r="8"/><circle cx="148" cy="30" r="8"/></g>
+<path d="M144 30 l3 3 l6 -6" stroke="{{live}}" stroke-width="2" fill="none"/>
+<circle cx="210" cy="30" r="9" fill="{{amber}}"/>
+<g font-size="9.5" fill="{{muted}}" text-anchor="middle">
+  <text x="24" y="58">question</text><text x="86" y="58">typed plan</text><text x="148" y="58">checks</text>
+  <text x="210" y="58" fill="{{amber}}" font-weight="600">SQL</text>
+  <text x="117" y="82" font-size="9">no SQL text until the plan passes</text>
+</g>

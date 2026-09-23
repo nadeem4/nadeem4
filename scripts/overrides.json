@@ -1,0 +1,26 @@
+{
+  "nl2sql": {
+    "demo": "https://nadeem4nk-nl2sql-demo.hf.space/",
+    "tagline": "Ask a database in English. Follow the plan, the checks, the SQL and what it cost.",
+    "cta": "Ask your database"
+  },
+  "jev-demo": {
+    "title": "Decision Arena",
+    "tagline": "Jev vs Laya: two decision models play the same games with zero training.",
+    "cta": "Watch them decide"
+  },
+  "rag-playground": {
+    "title": "RAG Playground",
+    "tagline": "Learn RAG by running it: short lessons on a real PDF, every stage swappable.",
+    "cta": "Start the first lesson"
+  },
+  "logscribe": {
+    "tagline": "An AI lens on your Python logs: batch, scrub PII, ask an LLM."
+  },
+  "medalflow": {
+    "tagline": "dbt, but in Python classes, compiled to a staged execution plan."
+  },
+  "post_training": {
+    "tagline": "Runnable LLM post-training: PPO and GRPO through DPO and RLHF."
+  }
+}

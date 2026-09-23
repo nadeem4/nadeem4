@@ -22,37 +22,19 @@
 <!-- PROJECTS:START -->
 **▶ Try it live**
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3><a href="https://nadeem4nk-nl2sql-demo.hf.space/">nl2sql</a></h3>
-Ask a database questions in English. The model emits a typed query plan, never SQL, checked against the schema and your role first.
-<br><br>
-<a href="https://nadeem4nk-nl2sql-demo.hf.space/"><img alt="Ask your database" src="https://img.shields.io/badge/%E2%96%B6%20Ask%20your%20database-1F6FEB?style=for-the-badge&logo=huggingface&logoColor=white"></a>
-<br><sub><a href="https://github.com/nadeem4/nl2sql">source</a> · <a href="https://nadeem4.github.io/nl2sql/">docs</a> · <a href="https://pypi.org/project/nl2sql-engine/">PyPI</a></sub>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://arena.codewithnk.com">Decision Arena</a></h3>
-Jev vs Laya: two decision models play highway-env, Snake and Blackjack with zero training, with benchmarks and a scorecard of who wins what.
-<br><br>
-<a href="https://arena.codewithnk.com"><img alt="Watch them play" src="https://img.shields.io/badge/%E2%96%B6%20Watch%20them%20play-1F6FEB?style=for-the-badge"></a>
-<br><sub><a href="https://github.com/nadeem4/jev-demo">source</a></sub>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://huggingface.co/spaces/nadeem4nk/rag-playground">RAG Playground</a></h3>
-A bench for learning RAG by experiment: swap every stage, from parsing and chunking to reranking, and compare strategies side by side.
-<br><br>
-<a href="https://huggingface.co/spaces/nadeem4nk/rag-playground"><img alt="Open the demo" src="https://img.shields.io/badge/%E2%96%B6%20Open%20the%20demo-1F6FEB?style=for-the-badge&logo=huggingface&logoColor=white"></a>
-<br><sub><a href="https://github.com/nadeem4/rag-playground">source</a></sub>
-</td>
-</tr>
-</table>
+<p>
+<a href="https://nadeem4nk-nl2sql-demo.hf.space/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/nl2sql-dark.svg"><img alt="nl2sql: Ask a database in English. Follow the plan, the checks, the SQL and what it cost." src="assets/projects/nl2sql-light.svg" width="272"></picture></a>
+<a href="https://arena.codewithnk.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/jev-demo-dark.svg"><img alt="Decision Arena: Jev vs Laya: two decision models play the same games with zero training." src="assets/projects/jev-demo-light.svg" width="272"></picture></a>
+<a href="https://huggingface.co/spaces/nadeem4nk/rag-playground"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/rag-playground-dark.svg"><img alt="RAG Playground: Learn RAG by running it: short lessons on a real PDF, every stage swappable." src="assets/projects/rag-playground-light.svg" width="272"></picture></a>
+</p>
 
 **In progress**
 
-- **[medalflow](https://github.com/nadeem4/medalflow)**: dbt, but in Python classes. It reads dependencies from your SQL and compiles a staged execution plan.
-- **[logscribe](https://github.com/nadeem4/logscribe)**: an AI lens on your Python logs. It batches them, scrubs PII, and asks an LLM what's going on.
-- **[post_training](https://github.com/nadeem4/post_training)**: small, runnable LLM post-training, from PPO and GRPO through DPO, RLHF, and RLAIF.
+<p>
+<a href="https://github.com/nadeem4/logscribe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/row-logscribe-dark.svg"><img alt="logscribe: An AI lens on your Python logs: batch, scrub PII, ask an LLM." src="assets/projects/row-logscribe-light.svg" width="100%"></picture></a><br>
+<a href="https://github.com/nadeem4/medalflow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/row-medalflow-dark.svg"><img alt="medalflow: dbt, but in Python classes, compiled to a staged execution plan." src="assets/projects/row-medalflow-light.svg" width="100%"></picture></a><br>
+<a href="https://github.com/nadeem4/post_training"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/row-post_training-dark.svg"><img alt="post_training: Runnable LLM post-training: PPO and GRPO through DPO and RLHF." src="assets/projects/row-post_training-light.svg" width="100%"></picture></a>
+</p>
 <!-- PROJECTS:END -->
 
 <details>
