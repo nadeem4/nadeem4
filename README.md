@@ -20,7 +20,7 @@
 ## 🚀 What I'm Building
 
 <!-- PROJECTS:START -->
-**▶ Try it live**
+**Try it live**
 
 <p>
 <a href="https://nadeem4nk-nl2sql-demo.hf.space/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/nl2sql-dark.svg"><img alt="nl2sql: Ask a database in English. Follow the plan, the checks, the SQL and what it cost." src="assets/projects/nl2sql-light.svg" width="272"></picture></a>

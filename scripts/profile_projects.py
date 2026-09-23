@@ -156,7 +156,7 @@ def render_block(live, building):
             f'<a href="{escape(p["demo"])}">{_picture(p["name"], p.get("title", p["name"]) + ": " + p["tagline"], 272)}</a>'
             for p in live
         )
-        parts.append(f"**▶ Try it live**\n\n<p>\n{cards}\n</p>")
+        parts.append(f"**Try it live**\n\n<p>\n{cards}\n</p>")
     if building:
         rows = "<br>\n".join(
             f'<a href="{escape(p["url"])}">{_picture("row-" + p["name"], p["name"] + ": " + p["tagline"], "100%")}</a>'
