@@ -24,14 +24,21 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+<h3><a href="https://nadeem4nk-nl2sql-demo.hf.space/">nl2sql</a></h3>
+Ask a database questions in English. The model emits a typed query plan, never SQL, checked against the schema and your role first.
+<br><br>
+<a href="https://nadeem4nk-nl2sql-demo.hf.space/"><img alt="Ask your database" src="https://img.shields.io/badge/%E2%96%B6%20Ask%20your%20database-1F6FEB?style=for-the-badge&logo=huggingface&logoColor=white"></a>
+<br><sub><a href="https://github.com/nadeem4/nl2sql">source</a> · <a href="https://nadeem4.github.io/nl2sql/">docs</a> · <a href="https://pypi.org/project/nl2sql-engine/">PyPI</a></sub>
+</td>
+<td width="33%" valign="top">
 <h3><a href="https://arena.codewithnk.com">Decision Arena</a></h3>
 Jev vs Laya: two decision models play highway-env, Snake and Blackjack with zero training, with benchmarks and a scorecard of who wins what.
 <br><br>
 <a href="https://arena.codewithnk.com"><img alt="Watch them play" src="https://img.shields.io/badge/%E2%96%B6%20Watch%20them%20play-1F6FEB?style=for-the-badge"></a>
 <br><sub><a href="https://github.com/nadeem4/jev-demo">source</a></sub>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <h3><a href="https://huggingface.co/spaces/nadeem4nk/rag-playground">RAG Playground</a></h3>
 A bench for learning RAG by experiment: swap every stage, from parsing and chunking to reranking, and compare strategies side by side.
 <br><br>
@@ -43,7 +50,6 @@ A bench for learning RAG by experiment: swap every stage, from parsing and chunk
 
 **In progress**
 
-- **[nl2sql](https://github.com/nadeem4/nl2sql)**: ask a database questions in English. The model emits a typed query plan, never SQL, validated against the schema and the caller's role first. <sub>[docs](https://nadeem4.github.io/nl2sql/) · [PyPI](https://pypi.org/project/nl2sql-engine/)</sub>
 - **[medalflow](https://github.com/nadeem4/medalflow)**: dbt, but in Python classes. It reads dependencies from your SQL and compiles a staged execution plan.
 - **[logscribe](https://github.com/nadeem4/logscribe)**: an AI lens on your Python logs. It batches them, scrubs PII, and asks an LLM what's going on.
 - **[post_training](https://github.com/nadeem4/post_training)**: small, runnable LLM post-training, from PPO and GRPO through DPO, RLHF, and RLAIF.
