@@ -20,15 +20,33 @@
 ## 🚀 What I'm Building
 
 <!-- PROJECTS:START -->
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[nl2sql](https://github.com/nadeem4/nl2sql)**<br><sub>[docs](https://nadeem4.github.io/nl2sql/) · [PyPI](https://pypi.org/project/nl2sql-engine/)</sub> | Ask a database questions in English. The model emits a typed query plan, never SQL text — validated against the real schema and the caller's role before any SQL is generated. | Python · LangGraph · sqlglot |
-| **[rag-playground](https://github.com/nadeem4/rag-playground)**<br><sub>[live demo](https://huggingface.co/spaces/nadeem4nk/rag-playground)</sub> | A local-first bench for learning RAG by experiment — swap, run, and inspect each stage (parsing, chunking, indexing, retrieval, reranking, answer) and compare strategies side by side. | Python · Docling · RAG |
-| **[codewithnk-playground](https://github.com/nadeem4/codewithnk-playground)** | Interactive companions to the blog series — real HNSW, IVF, and quantisation running live in the browser, measured against brute force. No backend. | TypeScript · Next.js |
-| **[jev-demo](https://github.com/nadeem4/jev-demo)**<br><sub>[live](https://arena.codewithnk.com)</sub> | Decision Arena — TypeSafe's Jev vs open-source Laya playing highway-env, Snake, and Blackjack with zero training, plus benchmarks and a scorecard. | TypeScript · Decision models |
-| **[medalflow](https://github.com/nadeem4/medalflow)** | dbt, but in Python classes. Declare Bronze/Silver/Gold models as classes; MedalFlow parses your SQL for dependencies and compiles a staged execution plan. | Python · Data platform |
-| **[logscribe](https://github.com/nadeem4/logscribe)** | An AI lens on your Python logs — batches them, scrubs PII, and asks an LLM what's going on, with Prometheus metrics and OpenTelemetry support. | Python · Observability |
-| **[post_training](https://github.com/nadeem4/post_training)** | Small, runnable implementations of LLM post-training and alignment — RL fundamentals (PPO, GRPO) through DPO, RLHF, and RLAIF. | Python · PyTorch · RL |
+**▶ Try it live**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://arena.codewithnk.com">Decision Arena</a></h3>
+Jev vs Laya: two decision models play highway-env, Snake and Blackjack with zero training, with benchmarks and a scorecard of who wins what.
+<br><br>
+<a href="https://arena.codewithnk.com"><img alt="Watch them play" src="https://img.shields.io/badge/%E2%96%B6%20Watch%20them%20play-1F6FEB?style=for-the-badge"></a>
+<br><sub><a href="https://github.com/nadeem4/jev-demo">source</a></sub>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://huggingface.co/spaces/nadeem4nk/rag-playground">RAG Playground</a></h3>
+A bench for learning RAG by experiment: swap every stage, from parsing and chunking to reranking, and compare strategies side by side.
+<br><br>
+<a href="https://huggingface.co/spaces/nadeem4nk/rag-playground"><img alt="Open the demo" src="https://img.shields.io/badge/%E2%96%B6%20Open%20the%20demo-1F6FEB?style=for-the-badge&logo=huggingface&logoColor=white"></a>
+<br><sub><a href="https://github.com/nadeem4/rag-playground">source</a></sub>
+</td>
+</tr>
+</table>
+
+**In progress**
+
+- **[nl2sql](https://github.com/nadeem4/nl2sql)**: ask a database questions in English. The model emits a typed query plan, never SQL, validated against the schema and the caller's role first. <sub>[docs](https://nadeem4.github.io/nl2sql/) · [PyPI](https://pypi.org/project/nl2sql-engine/)</sub>
+- **[medalflow](https://github.com/nadeem4/medalflow)**: dbt, but in Python classes. It reads dependencies from your SQL and compiles a staged execution plan.
+- **[logscribe](https://github.com/nadeem4/logscribe)**: an AI lens on your Python logs. It batches them, scrubs PII, and asks an LLM what's going on.
+- **[post_training](https://github.com/nadeem4/post_training)**: small, runnable LLM post-training, from PPO and GRPO through DPO, RLHF, and RLAIF.
 <!-- PROJECTS:END -->
 
 <details>
