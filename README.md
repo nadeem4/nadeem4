@@ -25,7 +25,7 @@
 <p>
 <a href="https://nadeem4nk-nl2sql-demo.hf.space/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/nl2sql-dark.svg"><img alt="nl2sql: Ask a database in English. Follow the plan, the checks, the SQL and what it cost." src="assets/projects/nl2sql-light.svg" width="272"></picture></a>
 <a href="https://arena.codewithnk.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/jev-demo-dark.svg"><img alt="Decision Arena: Jev vs Laya: two decision models play the same games with zero training." src="assets/projects/jev-demo-light.svg" width="272"></picture></a>
-<a href="https://huggingface.co/spaces/nadeem4nk/rag-playground"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/rag-playground-dark.svg"><img alt="RAG Playground: Learn RAG by running it: short lessons on a real PDF, every stage swappable." src="assets/projects/rag-playground-light.svg" width="272"></picture></a>
+<a href="https://nadeem4nk-rag-playground.hf.space"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/rag-playground-dark.svg"><img alt="RAG Playground: Learn RAG by running it: short lessons on a real PDF, every stage swappable." src="assets/projects/rag-playground-light.svg" width="272"></picture></a>
 </p>
 
 **In progress**
