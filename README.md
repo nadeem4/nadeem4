@@ -107,11 +107,11 @@
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Decision Models: How Jev and Laya Decide Without Writing Text](https://medium.com/learnwithnk/decision-models-how-jev-and-laya-decide-without-writing-text-df1cbe852aa1) &nbsp;<sub>Sep 24, 2026</sub>
+- [I Tested Jev and Laya, Two New AI Decision Models, on Games They Were Never Trained For](https://medium.com/learnwithnk/i-tested-jev-and-laya-two-new-ai-decision-models-on-games-they-were-never-trained-for-d839992b75c0) &nbsp;<sub>Sep 24, 2026</sub>
 - [Shapes, FLOPs, and Memory: Sizing a Transformer Before You Run It](https://medium.com/learnwithnk/shapes-flops-and-memory-sizing-a-transformer-before-you-run-it-b7b2beca4f4a) &nbsp;<sub>Sep 20, 2026</sub>
 - [The Ingestion Pipeline: What You Ingest, What You Store, and What Starts the Rest](https://medium.com/learnwithnk/the-ingestion-pipeline-what-you-ingest-what-you-store-and-what-starts-the-rest-ed227b608b68) &nbsp;<sub>Sep 19, 2026</sub>
-- [A Baseline RAG and a Golden Set Before Any Optimisation](https://medium.com/learnwithnk/a-baseline-rag-and-a-golden-set-before-any-optimisation-c0c45de5847b) &nbsp;<sub>Sep 18, 2026</sub>
-- [The RAG Pipeline as Building Blocks: Seven Ways an Answer Goes Wrong](https://medium.com/learnwithnk/the-rag-pipeline-as-building-blocks-seven-ways-an-answer-goes-wrong-2cae16e3a91c) &nbsp;<sub>Sep 16, 2026</sub>
-- [A Framework for Deciding Where Retrieval Work Happens](https://medium.com/learnwithnk/a-framework-for-deciding-where-retrieval-work-happens-af3b5595d5da) &nbsp;<sub>Sep 15, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [A Baseline RAG and a Golden Set Before Any Optimisation](https://medium.com/learnwithnk/a-baseline-rag-and-a-golden-set-before-any-optimisation-c0c45de5847b) &nbsp;<sub>Sep 18, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 More at **[medium.com/learnwithnk](https://medium.com/learnwithnk)** · **[codewithnk.com](https://codewithnk.com/)**
 
