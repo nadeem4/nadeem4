@@ -107,11 +107,11 @@
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Metadata and Enrichment: What to Store Beside Each Chunk](https://medium.com/learnwithnk/metadata-and-enrichment-what-to-store-beside-each-chunk-fa19a3b63304) &nbsp;<sub>Oct 2, 2026</sub>
 - [Advanced Chunking: Parent-Child, Contextual Retrieval, Late Chunking and Hierarchical Summaries](https://medium.com/learnwithnk/advanced-chunking-parent-child-contextual-retrieval-late-chunking-and-hierarchical-summaries-e6ea55662d07) &nbsp;<sub>Oct 2, 2026</sub>
 - [Chunking Fundamentals: What Chunk Size Actually Trades Off](https://medium.com/learnwithnk/chunking-fundamentals-what-chunk-size-actually-trades-off-216675ec62be) &nbsp;<sub>Sep 30, 2026</sub>
 - [Cleaning and Deduplication Before Anything Is Embedded](https://medium.com/learnwithnk/cleaning-and-deduplication-before-anything-is-embedded-f331e53c5162) &nbsp;<sub>Sep 28, 2026</sub>
-- [Parsing Documents: PDFs, Tables, Scans and Layout](https://medium.com/learnwithnk/parsing-documents-pdfs-tables-scans-and-layout-949363696e17) &nbsp;<sub>Sep 28, 2026</sub>
-- [Decision Models: How Jev and Laya Decide Without Writing Text](https://medium.com/learnwithnk/decision-models-how-jev-and-laya-decide-without-writing-text-df1cbe852aa1) &nbsp;<sub>Sep 24, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [Parsing Documents: PDFs, Tables, Scans and Layout](https://medium.com/learnwithnk/parsing-documents-pdfs-tables-scans-and-layout-949363696e17) &nbsp;<sub>Sep 28, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 More at **[medium.com/learnwithnk](https://medium.com/learnwithnk)** · **[codewithnk.com](https://codewithnk.com/)**
 
