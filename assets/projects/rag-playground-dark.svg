@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272 300" width="272" height="300" role="img" aria-label="RAG Playground: Learn RAG by running it: short lessons on a real PDF, every stage swappable.">
   <rect x="0.5" y="0.5" width="271" height="299" rx="12" fill="#151B23" stroke="#3D444D"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
-    <text x="20" y="32" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="1.4" fill="#3FB950">● LIVE · HUGGING FACE</text>
+    <text x="20" y="32" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="1.4" fill="#3FB950">● LIVE · RAG.CODEWITHNK.COM</text>
     <text x="20" y="62" font-size="22" font-weight="700" fill="#E6EDF3">RAG Playground</text>
     <rect x="16.5" y="78.5" width="239" height="103" rx="8" fill="#0D1117" stroke="#3D444D"/>
     <g transform="translate(22 86)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"><g stroke="#3D444D" stroke-width="1" fill="#0D1117">
