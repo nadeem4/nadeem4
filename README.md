@@ -107,11 +107,11 @@
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Structured Retrieval: Text-to-SQL, Tables and Mixed Answers](https://medium.com/learnwithnk/structured-retrieval-text-to-sql-tables-and-mixed-answers-b1c497cbc80d) &nbsp;<sub>Oct 12, 2026</sub>
 - [Query Understanding Beyond Rewriting: Conversation Condensing, Self-Querying Filters and Routing](https://medium.com/learnwithnk/query-understanding-beyond-rewriting-conversation-condensing-self-querying-filters-and-routing-c17ef5b53d9b) &nbsp;<sub>Oct 5, 2026</sub>
 - [The Document Lifecycle: Versions, Deletes, Orphaned Chunks and Blue/Green Re-indexing](https://medium.com/learnwithnk/the-document-lifecycle-versions-deletes-orphaned-chunks-and-blue-green-re-indexing-7f67b189a1cd) &nbsp;<sub>Oct 4, 2026</sub>
 - [Choosing and Operating an Embedding Model for RAG](https://medium.com/learnwithnk/choosing-and-operating-an-embedding-model-for-rag-8e81d6c2c49c) &nbsp;<sub>Oct 3, 2026</sub>
-- [Metadata and Enrichment: What to Store Beside Each Chunk](https://medium.com/learnwithnk/metadata-and-enrichment-what-to-store-beside-each-chunk-fa19a3b63304) &nbsp;<sub>Oct 2, 2026</sub>
-- [Advanced Chunking: Parent-Child, Contextual Retrieval, Late Chunking and Hierarchical Summaries](https://medium.com/learnwithnk/advanced-chunking-parent-child-contextual-retrieval-late-chunking-and-hierarchical-summaries-e6ea55662d07) &nbsp;<sub>Oct 2, 2026</sub><!-- BLOG-POST-LIST:END -->
+- [Metadata and Enrichment: What to Store Beside Each Chunk](https://medium.com/learnwithnk/metadata-and-enrichment-what-to-store-beside-each-chunk-fa19a3b63304) &nbsp;<sub>Oct 2, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 More at **[medium.com/learnwithnk](https://medium.com/learnwithnk)** · **[codewithnk.com](https://codewithnk.com/)**
 
